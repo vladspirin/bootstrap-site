@@ -1,2 +1,2 @@
 
-### This repo for my C / C++ courses
+### This repo for my C++ courses
